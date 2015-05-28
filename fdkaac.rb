@@ -3,9 +3,9 @@ require 'formula'
 class Fdkaac < Formula
   version '0.3.0a'
   homepage 'https://github.com/pneuman/fdkaac'
-  url 'https://github.com/pneuman/fdkaac/archive/f56c705be53c1d7f1bdc4b5e97553224fbe9006a.zip'
-  #head 'https://github.com/pneuman/fdkaac.git', :revision => 'f56c705be53c1d7f1bdc4b5e97553224fbe9006a'
-  sha1 'a00f2df155945634ab3212580c753e28081ea21c'
+  #url 'https://github.com/pneuman/fdkaac/archive/f56c705be53c1d7f1bdc4b5e97553224fbe9006a.zip'
+  url 'https://github.com/pneuman/fdkaac.git', :using => :git, :revision => 'f56c705be53c1d7f1bdc4b5e97553224fbe9006a'
+  sha256 ''
 
   env :std
 
