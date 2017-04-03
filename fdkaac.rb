@@ -1,10 +1,10 @@
 require 'formula'
 
 class Fdkaac < Formula
-  version '0.3.0a'
+  version '0.3.0b'
   homepage 'https://github.com/pneuman/fdkaac'
   #url 'https://github.com/pneuman/fdkaac/archive/f56c705be53c1d7f1bdc4b5e97553224fbe9006a.zip'
-  url 'https://github.com/pneuman/fdkaac.git', :using => :git, :revision => 'f56c705be53c1d7f1bdc4b5e97553224fbe9006a'
+  url 'https://github.com/pneuman/fdkaac.git', :using => :git, :revision => '99501bb1a60568b8abbf4015dea9e5da6866a998'
   sha256 ''
 
   env :std
