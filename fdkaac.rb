@@ -5,7 +5,7 @@ class Fdkaac < Formula
   homepage 'https://github.com/pneuman/fdkaac'
   #url 'https://github.com/pneuman/fdkaac/archive/f56c705be53c1d7f1bdc4b5e97553224fbe9006a.zip'
   # url 'https://github.com/pneuman/fdkaac.git', :using => :git, :revision => '99501bb1a60568b8abbf4015dea9e5da6866a998'
-  url 'https://github.com/joe07734/fdkaac.git', :using => :git, :revision => 'bf98e1bee0f07f29ddf284aa743fbb7f4c6ec0fd'
+  url 'https://github.com/joe07734/fdkaac.git', :using => :git, :revision => 'd548a0db67a254905e7cfd9f2619c12115d0bf87'
   sha256 ''
 
   env :std
